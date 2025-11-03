@@ -27,7 +27,7 @@ The project is designed to show:
 
 ### Usermode (EXE)
 1. Build the `usermode` project (same solution).  
-2. The output executable will appear as:
+2. The output executable will appear as: usermode.exe.
 
 3. ## Running
 
