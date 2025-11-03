@@ -29,7 +29,7 @@ The project is designed to show:
 1. Build the `usermode` project (same solution).  
 2. The output executable will appear as: usermode.exe.
 
-3. ## Running
+## Running
 
 ### Environment requirements
 - **Nested virtualization enabled**
