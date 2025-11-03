@@ -1,7 +1,8 @@
 # Hypervision
 
 > **Disclaimer:**  
-> It **does not** include or execute privileged instructions nor operations because last time i uploaded the complete version of this i got banned.  
+> It **does not** include or execute privileged instructions nor operations because last time i uploaded the complete version of this i got banned.
+> However i might make a V2 of this project and actually complete it with real ready to use stuff.
 ---
 
 ## Overview
